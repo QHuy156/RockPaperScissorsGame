@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\laptrinhC#\RockPaperScissorsGame2\ControlPanel\bin\Debug\net6.0-windows\ControlPanel.exe
+C:\Users\Asus\Desktop\laptrinhC#\RockPaperScissorsGame2\ControlPanel\bin\Debug\net6.0-windows\ControlPanel.deps.json
+C:\Users\Asus\Desktop\laptrinhC#\RockPaperScissorsGame2\ControlPanel\bin\Debug\net6.0-windows\ControlPanel.runtimeconfig.json
+C:\Users\Asus\Desktop\laptrinhC#\RockPaperScissorsGame2\ControlPanel\bin\Debug\net6.0-windows\ControlPanel.dll
+C:\Users\Asus\Desktop\laptrinhC#\RockPaperScissorsGame2\ControlPanel\bin\Debug\net6.0-windows\ControlPanel.pdb
+C:\Users\Asus\Desktop\laptrinhC#\RockPaperScissorsGame2\ControlPanel\obj\Debug\net6.0-windows\ControlPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\laptrinhC#\RockPaperScissorsGame2\ControlPanel\obj\Debug\net6.0-windows\ControlPanel.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\laptrinhC#\RockPaperScissorsGame2\ControlPanel\obj\Debug\net6.0-windows\ControlPanel.AssemblyInfo.cs
+C:\Users\Asus\Desktop\laptrinhC#\RockPaperScissorsGame2\ControlPanel\obj\Debug\net6.0-windows\ControlPanel.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\laptrinhC#\RockPaperScissorsGame2\ControlPanel\obj\Debug\net6.0-windows\ControlPanel.dll
+C:\Users\Asus\Desktop\laptrinhC#\RockPaperScissorsGame2\ControlPanel\obj\Debug\net6.0-windows\refint\ControlPanel.dll
+C:\Users\Asus\Desktop\laptrinhC#\RockPaperScissorsGame2\ControlPanel\obj\Debug\net6.0-windows\ControlPanel.pdb
+C:\Users\Asus\Desktop\laptrinhC#\RockPaperScissorsGame2\ControlPanel\obj\Debug\net6.0-windows\ControlPanel.genruntimeconfig.cache
+C:\Users\Asus\Desktop\laptrinhC#\RockPaperScissorsGame2\ControlPanel\obj\Debug\net6.0-windows\ref\ControlPanel.dll
